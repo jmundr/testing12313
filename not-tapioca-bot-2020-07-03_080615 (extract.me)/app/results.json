@@ -1,0 +1,44 @@
+[
+  {
+    "Reason": " Testing the warn command.",
+    "Timestamp": "2020-06-24T14:33:40.892Z",
+    "Moderator": "DevParallax",
+    "Type": ":warning: Warning",
+    "CaseNo": 440322
+  },
+  {
+    "Reason": " Warning II - Testing Command v2.",
+    "Timestamp": "2020-06-24T14:43:28.490Z",
+    "Moderator": "DevParallax",
+    "Type": ":warning: Warning",
+    "CaseNo": 732199
+  },
+  {
+    "Reason": " Warning III - Testing Command v3.",
+    "Timestamp": "2020-06-24T14:43:58.376Z",
+    "Moderator": "DevParallax",
+    "Type": ":warning: Warning",
+    "CaseNo": 711681
+  },
+  {
+    "Reason": "Auto-Mute (Spamming)",
+    "Timestamp": "2020-06-24T15:30:58.042Z",
+    "Moderator": "DevParallax",
+    "Type": ":clock1::mute: Auto-Mute",
+    "CaseNo": 640164
+  },
+  {
+    "Reason": "Auto-Mute (Spamming)",
+    "Timestamp": "2020-06-24T15:30:58.278Z",
+    "Moderator": "DevParallax",
+    "Type": ":clock1::mute: Auto-Mute",
+    "CaseNo": 593730
+  },
+  {
+    "Reason": " Warning IV - Testing Command v4",
+    "Timestamp": "2020-06-24T15:40:51.720Z",
+    "Moderator": "DevParallax",
+    "Type": ":warning: Warning",
+    "CaseNo": 708451
+  }
+]
